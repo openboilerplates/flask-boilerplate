@@ -28,4 +28,4 @@ jobs:
         TWINE_PASSWORD: ${{ secrets.FLASK_BOILERPLATE_PASSWORD }}
       run: |
         python setup.py sdist bdist_wheel
-        twine upload --repository dist/*
+        twine upload dist/*

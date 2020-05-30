@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 __title__ = "flask-boilerplate"
 __description__ = "Boilerplate for Flask API"
 __url__ = "https://github.com/openboilerplates/flask-boilerplate"
-__version__ = "1.0.3"
+__version__ = "1.0.4"
 __author__ = "Fakabbir Amin"
 __author_email__ = "fakabbir@gmail.com"
 __license__ = "MIT License"
